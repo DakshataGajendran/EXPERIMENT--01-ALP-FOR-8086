@@ -123,7 +123,7 @@ ret
 ```
 
  ## Output  
-![image](https://github.com/user-attachments/assets/97b931a7-41a5-4259-91d8-91c14cd2819a)
+![image](https://github.com/user-attachments/assets/52d1f565-c6be-4f45-88af-f716b4995ee5)
 
 
 ## Division alp 
